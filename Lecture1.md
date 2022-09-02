@@ -1,6 +1,6 @@
 ## What is object oriented programming?
 
-Answer here
+Object-oriented programing is not actually programming. It is the way you organize your software design around your data.
 
 ## What are the basic concepts of OOP?
 
